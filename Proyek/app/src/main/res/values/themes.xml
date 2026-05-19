@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PiPocket" parent="android:Theme.Material.NoActionBar" />
+    <style name="Theme.PiPocket.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#000000</item>
+        <item name="postSplashScreenTheme">@style/Theme.PiPocket</item>
+    </style>
+</resources>

@@ -1,6 +1,4 @@
-
-usr/local/.DS_Store
-usr/.DS_Store
-home/android/.DS_Store
-home/.DS_Store
-.DS_Store
+_apk_extract/
+_apk_decompiled/
+_tools/
+*.apk
